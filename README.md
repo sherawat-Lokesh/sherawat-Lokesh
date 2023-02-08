@@ -1,8 +1,8 @@
 <h1 align="center">Hi 🥷🏼, I'm Lokesh sherawat</h1>
 
 
-<h3 align="left">Connect with me:
-<a href="[https://www.hackerrank.com/l](https://www.hackerrank.com/lokeshsherawat?hr_r=1)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="l" height="30" width="40" /></a></h3>
+<h2 align="left">Connect with me:
+<a href="[https://www.hackerrank.com/l](https://www.hackerrank.com/lokeshsherawat?hr_r=1)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="l" height="40" width="40" /></a></h2>
 
 
 <h2 align="left">Languages and Tools:
