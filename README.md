@@ -1,13 +1,8 @@
 <h1 align="center">Hi 🥷🏼, I'm Lokesh sherawat</h1>
 
-
-<h2 align="left">Connect with me:
-<a href="[https://www.hackerrank.com/l](https://www.hackerrank.com/lokeshsherawat?hr_r=1)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="l" height="40" width="40" /></a></h2>
-
-
 <!-- Tech Stack -->
 <div align="center">
-
+  
 # 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
